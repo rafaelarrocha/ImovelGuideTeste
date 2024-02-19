@@ -73,7 +73,9 @@ body {
     margin-bottom: 0;
 }
 
-
+.corretores, .mensagem, .regrade3{
+    padding: 15px;
+}
 
 .corretores, .mensagem, .regrade3, .modal1, .capture, .zoomout {
     width: 300px;
@@ -81,7 +83,6 @@ body {
     background-color: white;
     border: 1px solid rgb(167, 163, 163);
     border-radius: 5px;
-    padding: 15px;
 }
 
 .corretoraimg, .corretorimg {
